@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About page</title>
+</head>
+<body>
+	About us
+
+</body>
+</html>
